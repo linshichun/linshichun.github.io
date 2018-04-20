@@ -8,7 +8,7 @@ img_url:          //infp.github.io/images
 # Set to '' in case of hosting on `https://<your-github-name>.github.io`
 baseurl:          ''
 
-title:            '校共同'
+title:            '小共同'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
@@ -23,7 +23,7 @@ image:            /public/images/mountains.jpg
 color:            '#3399ff'
 
 author:
-  name:           '饮冰先生'
+  name:           '小珙桐'
   email:          ma.yanbin@qq.com
   github:         myanbin
   linkedin:       myanbin
